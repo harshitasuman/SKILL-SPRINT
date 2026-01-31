@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SkillSprint",
+  "description": "A micro-learning platform for Indian students to master skills through 5-minute daily sprints and AI-powered practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
